@@ -4,7 +4,7 @@
 
 ![HomePage](/public/home.png)
 
-![EditPage](/public/images/image-10.png)
+![EditPage](/public/createnew.png)
 
 ![ViewPage](/public/images/image-11.png)
 
