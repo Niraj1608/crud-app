@@ -8,8 +8,8 @@
 
 ! [login] (/public/login.png)
 
-![AboutPage] (/public/images/image-12.png)
+![record] (/public/record.png)
 
-![ContactPage] (/public/images/image-13.png)
+![view] (/public/view.png)
 
-![ErrorPage] (/public/images/image-14.png)
+
