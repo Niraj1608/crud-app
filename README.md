@@ -6,7 +6,7 @@
 
 ![EditPage](/public/images/image-10.png)
 
-![ViewPage](/public/images/image-11.png)
+![ViewPage](Screenshot 2024-09-10 234908.png)
 
 ![AboutPage](/public/images/image-12.png)
 
