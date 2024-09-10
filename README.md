@@ -2,11 +2,11 @@
 
 ## Screenshots
 
-![HomePage] (/public/home.png)
+! [HomePage](/public/home.png)
 
-![createnew] (/public/createnew.png)
+! [createnew](/public/createnew.png)
 
-![login] (/public/login.png)
+! [login] (/public/login.png)
 
 ![AboutPage] (/public/images/image-12.png)
 
