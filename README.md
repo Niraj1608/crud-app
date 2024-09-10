@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![HomePage](/public/images/image-0.png)
+![HomePage](Screenshot 2024-09-10 234939.png)
 
 ![EditPage](/public/images/image-10.png)
 
