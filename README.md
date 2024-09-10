@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![HomePage](/public/images/home.png)
+![HomePage](/public/home.png)
 
 ![EditPage](/public/images/image-10.png)
 
